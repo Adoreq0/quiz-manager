@@ -1,0 +1,49 @@
+"answer_id","question_id","content","is_correct"
+1,1,"Moodle",True
+2,1,"Teams",False
+3,1,"Librus",False
+4,1,"Zoom",False
+5,2,"Dyplom",False
+6,2,"Legitymacja studencka",True
+7,2,"Certyfikat uczestnictwa",False
+8,2,"Indeks",False
+9,3,"Wyższa Szkoła Biznesu",True
+10,3,"Wspólnota Studentów Biznesu",False
+11,3,"Wydział Studiów Biznesowych",False
+12,3,"Wirtualna Szkoła Biznesu",False
+13,4,"W styczniu",False
+14,4,"W czerwcu",False
+15,4,"We wrześniu/październiku",True
+16,4,"W grudniu",False
+17,5,"Wykłady",True
+18,5,"Ćwiczenia",True
+19,5,"Warsztaty",True
+20,5,"Egzaminy końcowe",False
+21,6,"Biblioteka",True
+22,6,"Bufet lub kawiarnia",True
+23,6,"Siłownia",False
+24,6,"Dostęp do Wi-Fi",True
+25,7,"Moodle",True
+26,7,"Microsoft Teams",True
+27,7,"Zoom",True
+28,7,"Netflix",False
+29,8,"Punktualność",True
+30,8,"Aktywność na zajęciach",True
+31,8,"Pomoc kolegom",True
+32,8,"Przeszkadzanie prowadzącemu",False
+33,9,"Na stronie Ministerstwa Edukacji",False
+34,9,"Na Extranecie lub aplikacji mobilnej",True
+35,9,"W bibliotece",False
+36,9,"Na tablicy ogłoszeń w mieście",False
+37,10,"Europejski Certyfikat Technologii Studenckiej",False
+38,10,"Europejski System Transferu i Akumulacji Punktów",True
+39,10,"Elektroniczny System Czasu Studiów",False
+40,10,"Egzamin Centralny Techniczny Studenta",False
+41,11,"Zarządzanie",False
+42,11,"Informatyka",False
+43,11,"Medycyna",True
+44,11,"Finanse i rachunkowość",False
+45,12,"Tylko w weekendy",False
+46,12,"Tylko podczas sesji egzaminacyjnej",False
+47,12,"W godzinach otwarcia przez cały rok akademicki",True
+48,12,"Tylko po zapisaniu się na specjalny kurs",False
